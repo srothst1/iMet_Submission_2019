@@ -1,3 +1,5 @@
+#Sam Rothstein
+#Swarthmore College
 def __boot():
     import sys
     import os
