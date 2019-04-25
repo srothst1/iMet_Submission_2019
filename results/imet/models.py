@@ -1,3 +1,5 @@
+#Sam Rothstein
+#Swarthmore College
 from functools import partial
 
 import torch
