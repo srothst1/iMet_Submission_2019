@@ -1,3 +1,5 @@
+#Sam Rothstein
+#Swarthmore College
 import random
 import math
 
