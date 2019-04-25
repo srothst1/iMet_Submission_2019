@@ -1,3 +1,5 @@
+#Sam Rothstein
+#Swarthmore College
 import argparse
 from collections import defaultdict, Counter
 import random
