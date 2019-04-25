@@ -1,3 +1,5 @@
+#Sam Rothstein
+#Swarthmore College
 import argparse
 from itertools import islice
 import json
