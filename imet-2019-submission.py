@@ -1,3 +1,5 @@
+#Sam Rothstein
+#Swarthmore College
 import gzip
 import base64
 import os
