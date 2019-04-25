@@ -1,3 +1,5 @@
+#Sam Rothstein
+#Swarthmore College
 from datetime import datetime
 import json
 import glob
