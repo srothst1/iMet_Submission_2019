@@ -1,3 +1,5 @@
+#Sam Rothstein
+#Swarthmore College
 from pathlib import Path
 from typing import Callable, List
 
